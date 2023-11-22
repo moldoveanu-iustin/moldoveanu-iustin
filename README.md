@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/iustin-eusebiu-moldoveanu-22a80a2a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iustin-eusebiu-moldoveanu-22a80a2a0" height="30" width="40" /></a>
 <a href="https://instagram.com/moldoveanu.iustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moldoveanu.iustin" height="30" width="40" /></a>
-<a href="https://discord.gg/TGW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TGW" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="center">Languages:</h3>
