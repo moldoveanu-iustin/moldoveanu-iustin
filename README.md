@@ -1,7 +1,7 @@
 <h1 align="center">Moldoveanu Iustin-Eusebiu</h1>
 
 <p align="center">
-  Software Developer focused on building real-world applications
+  Software Developer
 </p>
 
 ---
