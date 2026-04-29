@@ -1,12 +1,31 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*641jWUJsaII6YX1x9_1lRA.gif)
-
 <h1 align="center">Moldoveanu Iustin-Eusebiu</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moldoveanu-iustin&label=Profile%20views&color=0e75b6&style=flat" alt="moldoveanu-iustin" />
+  Software Developer focused on building real-world applications
 </p>
 
 ---
+
+## 🚀 Featured Project
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moldoveanu-iustin/Aflux/main/CheltuieliApp/Resources/Images/logo_transparent.png" width="80"/>
+</p>
+
+<h3 align="center">Aflux 💰</h3>
+
+<p align="center">
+  Mobile app for tracking personal finances by importing and analyzing bank statements (BT, BRD, Raiffeisen).
+</p>
+
+<p align="center">
+  <a href="https://github.com/USERNAME/Aflux">
+    <b>View Project →</b>
+  </a>
+</p>
+
+---
+
 
 <h3 align="center">Connect with me</h3>
 
@@ -124,12 +143,4 @@
     </td>
   </tr>
 
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" />
-      </a>
-      <br>C
-    </td>
-  </tr>
 </table>
