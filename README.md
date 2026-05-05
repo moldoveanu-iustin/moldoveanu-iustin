@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/Aflux">
+  <a href="https://github.com/moldoveanu-iustin/Aflux">
     <b>View Project →</b>
   </a>
 </p>
