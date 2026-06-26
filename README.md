@@ -6,23 +6,43 @@
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moldoveanu-iustin/Aflux/main/CheltuieliApp/Resources/Images/logo_transparent.png" width="80"/>
-</p>
+<table align="center">
+<tr>
 
-<h3 align="center">Aflux 💰</h3>
+<td align="center" width="50%">
 
-<p align="center">
-  Mobile app for tracking personal finances by importing and analyzing bank statements (BT, BRD, Raiffeisen).
-</p>
+<img src="https://raw.githubusercontent.com/moldoveanu-iustin/Aflux/main/CheltuieliApp/Resources/Images/logo_transparent.png" width="80"/>
 
-<p align="center">
-  <a href="https://github.com/moldoveanu-iustin/Aflux">
-    <b>View Project →</b>
-  </a>
-</p>
+### Aflux 💰
+
+Personal finance tracking application built with .NET MAUI.
+
+Import and analyze bank statements from Romanian banks.
+
+<a href="https://github.com/moldoveanu-iustin/Aflux">
+<b>View Project →</b>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/moldoveanu-iustin/ParkVision/main/parking_monitor/assets/logo.svg" width="80"/>
+
+### ParkVision 🚗
+
+Flutter application for manual parking occupancy monitoring, statistics and availability analysis.
+
+<a href="https://github.com/moldoveanu-iustin/ParkVision">
+<b>View Project →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
